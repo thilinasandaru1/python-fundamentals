@@ -1,5 +1,5 @@
-# A list is a collection which is ordered and changeable. A
-# Allows duplicate members
+# A list is a collection which is ordered and changeable.
+# Allows duplicate members.
 
 # create list
 numbers = [1,2,3,4,5]
