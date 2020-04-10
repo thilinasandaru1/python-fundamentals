@@ -1,7 +1,6 @@
 # A Tuple is a collection which is ordered and unchangeable. 
 # Allows duplicate members.
 
-
 # create tuple
 fruits = ('Apple', 'Orange', 'Mango')
 
